@@ -1,110 +1,143 @@
-<!--START_SECTION:header-->
-<div align="center">
-  <p align="center">
-    <img 
-      alt="DIO Education" 
-      src="https://raw.githubusercontent.com/digitalinnovationone/template-github-trilha/main/.github/assets/logo.webp" 
-      width="100px" 
-    />
-    <h1>Título do Curso ou Projeto</h1>
-  </p>
-</div>
-<!--END_SECTION:header-->
+📘 Plano de Carreira — Engenheiro de Dados
+Autor: Rodrigo
+Objetivo: Crescimento profissional na área de Dados
+Disponibilidade: 10h/semana
 
-<p align="center">
-  <img src="https://img.shields.io/static/v1?label=DIO&message=Education&color=E94D5F&labelColor=202024" alt="DIO Project" />
-  <a href="NIVEL"><img  src="https://img.shields.io/static/v1?label=Nivel&message=Basico&color=E94D5F&labelColor=202024" alt="Nivel"></a>
+🚀 Sobre este Repositório
+Este repositório contém meu plano completo de estudos, roadmap de 90 dias, projeto de portfólio e materiais de preparação para entrevistas, tudo focado na carreira de Engenheiro de Dados.
 
-</p>
+🧩 Visão do Dia a Dia do Engenheiro de Dados
+Construção e manutenção de pipelines de dados escaláveis
 
-<!--  -->
-<table align="center">
-<thead>
-  <tr>
-    <td>
-        <p align="center">Expert</p>
-        <a href="https://github.com/felipeAguiarCode">
-        <img src="https://avatars0.githubusercontent.com/u/37452836?v=3&s=115" alt="@felipeAguiarCode"><br>
-      </a>
-    </td>
-    <td colspan="3">
-    <p>🎉 10y+ em sistemas comerciais com .NET C# e NODE.JS.
-      <br/>
-     🌟 Desenvolvedor fullstack - Coordenador de educação na DIO
-      <br/>
-    👨‍💻 Foco em front-ends SPA com React, Angular e Vue.js
-    </p>
-      <a 
-      href="https://www.linkedin.com/in/felipe-me/" 
-      align="center">
-           <img 
-            align="center" 
-            alt="Material de Apoio" 
-            src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-            >
-        </a>
-        <a href="https://www.instagram.com/felipeaguiar.exe/" target="_blank">
-            <img 
-              align="center" 
-              alt="Instagram" 
-              src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
-            >
-        </a>
-    </td>
-  </tr>
-</thead>
-</table>
-<!--  -->
+Criação e otimização de processos ETL/ELT
 
-<br/>
-<br/>
+Manipulação de bancos SQL e NoSQL
 
-## 💻 Sobre o Projeto
+Integração de dados de múltiplas fontes
 
-Vamos construir uma página spa, responsiva, para usar em diversos tipos de micro, pequena e média empresas. Contém as seguintes seções: Header, Navigation, Home, Sobre, Serviços, Depoimentos, Contato e Footer que faz xxx e yyy
+Suporte a analistas e cientistas de dados com dados limpos e confiáveis
 
-## 📚 Pré-requisitos de Habilidades e Níveis de Conhecimento
+🧠 Mapa de Skills
+Core Skills
+Python
 
-Antes de ingressar neste conteúdo, é necessário possuir conhecimento prévio nas seguintes áreas:
+SQL
 
-- [habilidades ou conhecimentos prévios necessários] | [Básico, Intermediário, Avançado ou Especialista]
+Arquitetura de dados e ETL/ELT
 
-- _Exemplo_:
+Nice-to-Have
+Cloud (AWS, Azure ou GCP)
 
-  - Java | Básico
-  - Gerenciamento de pacotes | Básico
-  -
+Git
 
-- [Outros pré-requisitos, se aplicável]
+Ferramentas
+Pandas, PySpark
 
-- _Exemplo_:
-  - Lógica de programação
-  - Javascript
+PostgreSQL, MySQL
 
-## 🛠️ Habilidades e Sub-habilidades que vamos aprender neste conteúdo
+Excel
 
-- [Lista das habilidades principais a serem desenvolvidas]
+📅 Roadmap de 90 Dias
+Carga semanal: 10h
 
-  - [Subhabilidades relacionadas, se aplicável]
+📘 Mês 1 — Fundamentos
+Semana 1–2
 
-- _Exemplo_:
-  - Java
-    - Api Rest
+Revisão de Python (funções, listas, dicionários)
 
-## 🎯 Objetivos e Resultados Esperados
+Manipulação de dados com Pandas
 
-Após a conclusão do curso/projeto, os estudantes estarão aptos a:
+Semana 3–4
 
-- [Descrição do que os estudantes serão capazes de fazer]
-- [Projetos ou soluções que os estudantes estarão aptos a construir]
+SQL intermediário (JOINs, GROUP BY, subqueries)
 
-<!--START_SECTION:footer-->
+Exercícios com problemas reais
 
-<br />
-<br />
+🛠️ Mês 2 — Prática
+Semana 5–6
 
-<p align="center">
-  <a href="https://www.dio.me/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/digitalinnovationone/template-github-trilha/main/.github/assets/footer.png" alt="banner"/>
-  </a>
-</p>
+ETL/ELT com Python
+
+Pipelines simples com CSV/Excel
+
+Semana 7–8
+
+Introdução ao Spark e PySpark
+
+Transformações distribuídas
+
+🚀 Mês 3 — Portfólio e Preparação
+Semana 9–10
+
+Pipeline completo: ingestão → transformação → carga
+
+Documentação técnica
+
+Semana 11–12
+
+Currículo focado em dados
+
+Simulações de entrevistas
+
+🗂️ Projeto de Portfólio
+📌 Projeto: Pipeline de Dados de Vendas (Python + SQL)
+Descrição
+Criar um pipeline completo que:
+
+Leia dados brutos (CSV/Excel)
+
+Limpe e normalize os dados
+
+Carregue em um banco SQL
+
+Gere relatórios automatizados
+
+Entregáveis
+Script Python de ETL
+
+Banco SQL normalizado
+
+Dashboard simples (Excel ou Python)
+
+Critérios de Aceitação
+Pipeline executa de ponta a ponta
+
+Dados limpos e consistentes
+
+Documentação clara
+
+Dica
+Use datasets reais do Kaggle.
+
+💬 Preparação para Entrevistas
+Pergunta 1 — Explique um pipeline de dados que você construiu.
+Resposta: Contexto → Problema → Solução técnica → Resultado.
+
+Pergunta 2 — Diferença entre ETL e ELT.
+Resposta: Definição → Quando usar → Exemplos.
+
+Pergunta 3 — Como otimizar consultas SQL?
+Resposta: Índices → Plano de execução → Redução de subqueries.
+
+Pergunta 4 — O que é particionamento em Big Data?
+Resposta: Conceito → Benefícios → Exemplo com Spark.
+
+Pergunta 5 — Como garantir qualidade dos dados?
+Resposta: Validações → Regras → Logs → Monitoramento.
+
+🎓 Trilha Recomendada na DIO
+Formação Engenheiro de Dados
+Por que essa trilha?
+Cobre Python, SQL, ETL, Big Data e projetos práticos — tudo alinhado ao roadmap.
+
+Como acessar
+Entre em dio.me
+
+Busque por Formação Engenheiro de Dados
+
+Inscreva-se
+
+Siga junto com este roadmap
+
+🧭 Conclusão
+Este repositório documenta minha jornada de evolução como Engenheiro de Dados, com foco em consistência, prática e construção de portfólio.
